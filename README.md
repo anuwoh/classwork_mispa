@@ -1,2 +1,2 @@
 # classwork_mispa
-This my project is personal
+This is for my practice git
